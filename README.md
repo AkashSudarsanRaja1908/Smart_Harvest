@@ -10,7 +10,7 @@
 
 ## Project Info
 
-**URL**: 
+ # URL : https://smartharverst.netlify.app/
 
 Smart Harvest is a comprehensive tax harvesting application designed to help investors optimize their tax strategies through automated analysis and educational resources.
 
